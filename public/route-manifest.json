@@ -1,0 +1,311 @@
+{
+  "/apps": [
+    {
+      "type": "script",
+      "href": "/apps.ea66ae2c.js"
+    },
+    {
+      "type": "script",
+      "href": "/index.63c3418c.js"
+    },
+    {
+      "type": "style",
+      "href": "/index.cf2b2e96.css"
+    },
+    {
+      "type": "script",
+      "href": "/Tab.81eba0f1.js"
+    },
+    {
+      "type": "script",
+      "href": "/Games.49d8852b.js"
+    }
+  ],
+  "/settings": [
+    {
+      "type": "script",
+      "href": "/Tab.81eba0f1.js"
+    },
+    {
+      "type": "script",
+      "href": "/Games.49d8852b.js"
+    },
+    {
+      "type": "script",
+      "href": "/index.63c3418c.js"
+    },
+    {
+      "type": "style",
+      "href": "/index.cf2b2e96.css"
+    }
+  ],
+  "/games": [
+    {
+      "type": "script",
+      "href": "/games.d02f294c.js"
+    },
+    {
+      "type": "script",
+      "href": "/index.63c3418c.js"
+    },
+    {
+      "type": "style",
+      "href": "/index.cf2b2e96.css"
+    },
+    {
+      "type": "script",
+      "href": "/Games.49d8852b.js"
+    },
+    {
+      "type": "script",
+      "href": "/Tab.81eba0f1.js"
+    }
+  ],
+  "/": [
+    {
+      "type": "script",
+      "href": "/index.8dd19cf1.js"
+    },
+    {
+      "type": "script",
+      "href": "/index.63c3418c.js"
+    },
+    {
+      "type": "style",
+      "href": "/index.cf2b2e96.css"
+    },
+    {
+      "type": "script",
+      "href": "/Games.49d8852b.js"
+    },
+    {
+      "type": "script",
+      "href": "/Tab.81eba0f1.js"
+    },
+    {
+      "type": "style",
+      "href": "/index.7172a96a.css"
+    }
+  ],
+  "/partners": [
+    {
+      "type": "script",
+      "href": "/partners.6bfd05ae.js"
+    },
+    {
+      "type": "script",
+      "href": "/index.63c3418c.js"
+    },
+    {
+      "type": "style",
+      "href": "/index.cf2b2e96.css"
+    },
+    {
+      "type": "script",
+      "href": "/Tab.81eba0f1.js"
+    },
+    {
+      "type": "script",
+      "href": "/Games.49d8852b.js"
+    }
+  ],
+  "/privacy": [
+    {
+      "type": "script",
+      "href": "/privacy.9b977e66.js"
+    },
+    {
+      "type": "script",
+      "href": "/index.63c3418c.js"
+    },
+    {
+      "type": "style",
+      "href": "/index.cf2b2e96.css"
+    },
+    {
+      "type": "script",
+      "href": "/Tab.81eba0f1.js"
+    },
+    {
+      "type": "script",
+      "href": "/Games.49d8852b.js"
+    }
+  ],
+  "/search": [
+    {
+      "type": "script",
+      "href": "/search.10f948cf.js"
+    },
+    {
+      "type": "script",
+      "href": "/index.63c3418c.js"
+    },
+    {
+      "type": "style",
+      "href": "/index.cf2b2e96.css"
+    },
+    {
+      "type": "script",
+      "href": "/Games.49d8852b.js"
+    }
+  ],
+  "/services": [
+    {
+      "type": "script",
+      "href": "/services.da432004.js"
+    },
+    {
+      "type": "script",
+      "href": "/index.63c3418c.js"
+    },
+    {
+      "type": "style",
+      "href": "/index.cf2b2e96.css"
+    },
+    {
+      "type": "script",
+      "href": "/Tab.81eba0f1.js"
+    },
+    {
+      "type": "script",
+      "href": "/Games.49d8852b.js"
+    }
+  ],
+  "/supporters": [
+    {
+      "type": "script",
+      "href": "/supporters.6de82d06.js"
+    },
+    {
+      "type": "script",
+      "href": "/index.63c3418c.js"
+    },
+    {
+      "type": "style",
+      "href": "/index.cf2b2e96.css"
+    },
+    {
+      "type": "script",
+      "href": "/Tab.81eba0f1.js"
+    },
+    {
+      "type": "script",
+      "href": "/Games.49d8852b.js"
+    }
+  ],
+  "/*404": [
+    {
+      "type": "script",
+      "href": "/_...404_.0cdb4451.js"
+    },
+    {
+      "type": "script",
+      "href": "/index.63c3418c.js"
+    },
+    {
+      "type": "style",
+      "href": "/index.cf2b2e96.css"
+    },
+    {
+      "type": "script",
+      "href": "/Tab.81eba0f1.js"
+    },
+    {
+      "type": "script",
+      "href": "/Games.49d8852b.js"
+    }
+  ],
+  "/changelog/": [
+    {
+      "type": "script",
+      "href": "/index.b594107b.js"
+    },
+    {
+      "type": "script",
+      "href": "/index.63c3418c.js"
+    },
+    {
+      "type": "style",
+      "href": "/index.cf2b2e96.css"
+    },
+    {
+      "type": "script",
+      "href": "/Changes.ab956cb8.js"
+    },
+    {
+      "type": "script",
+      "href": "/Tab.81eba0f1.js"
+    },
+    {
+      "type": "script",
+      "href": "/Games.49d8852b.js"
+    }
+  ],
+  "/changelog/:any": [
+    {
+      "type": "script",
+      "href": "/_any_.0a9a1129.js"
+    },
+    {
+      "type": "script",
+      "href": "/index.63c3418c.js"
+    },
+    {
+      "type": "style",
+      "href": "/index.cf2b2e96.css"
+    },
+    {
+      "type": "script",
+      "href": "/_...404_.0cdb4451.js"
+    },
+    {
+      "type": "script",
+      "href": "/Tab.81eba0f1.js"
+    },
+    {
+      "type": "script",
+      "href": "/Games.49d8852b.js"
+    },
+    {
+      "type": "script",
+      "href": "/Changes.ab956cb8.js"
+    }
+  ],
+  "/game/:any": [
+    {
+      "type": "script",
+      "href": "/_any_.05d63eaf.js"
+    },
+    {
+      "type": "script",
+      "href": "/index.63c3418c.js"
+    },
+    {
+      "type": "style",
+      "href": "/index.cf2b2e96.css"
+    },
+    {
+      "type": "script",
+      "href": "/_...404_.0cdb4451.js"
+    },
+    {
+      "type": "script",
+      "href": "/Tab.81eba0f1.js"
+    },
+    {
+      "type": "script",
+      "href": "/Games.49d8852b.js"
+    }
+  ],
+  "entry-client": [],
+  "index.html": [
+    {
+      "type": "script",
+      "href": "/index.63c3418c.js"
+    },
+    {
+      "type": "style",
+      "href": "/index.cf2b2e96.css"
+    }
+  ]
+}

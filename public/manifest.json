@@ -1,0 +1,180 @@
+{
+  "src/assets/banner.svg": {
+    "file": "banner.081da34f.svg",
+    "src": "src/assets/banner.svg"
+  },
+  ".solid/index.html": {
+    "file": "index.63c3418c.js",
+    "src": ".solid/index.html",
+    "isEntry": true,
+    "dynamicImports": [
+      "src/routes/apps.tsx",
+      "src/routes/games.tsx",
+      "src/routes/index.tsx",
+      "src/routes/partners.tsx",
+      "src/routes/privacy.tsx",
+      "src/routes/search.tsx",
+      "src/routes/services.tsx",
+      "_Tab.81eba0f1.js",
+      "src/routes/supporters.tsx",
+      "src/routes/[...404].tsx",
+      "src/routes/changelog/index.tsx",
+      "src/routes/changelog/[any].tsx",
+      "src/routes/game/[any].tsx"
+    ],
+    "css": [
+      "index.cf2b2e96.css"
+    ],
+    "assets": [
+      "banner.081da34f.svg"
+    ]
+  },
+  "src/routes/apps.tsx": {
+    "file": "apps.ea66ae2c.js",
+    "src": "src/routes/apps.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      ".solid/index.html",
+      "_Tab.81eba0f1.js",
+      "_Games.49d8852b.js"
+    ]
+  },
+  "_Tab.81eba0f1.js": {
+    "file": "Tab.81eba0f1.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_Games.49d8852b.js",
+      ".solid/index.html"
+    ]
+  },
+  "_Games.49d8852b.js": {
+    "file": "Games.49d8852b.js"
+  },
+  "src/routes/games.tsx": {
+    "file": "games.d02f294c.js",
+    "src": "src/routes/games.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      ".solid/index.html",
+      "_Games.49d8852b.js",
+      "_Tab.81eba0f1.js"
+    ]
+  },
+  "src/routes/index.tsx": {
+    "file": "index.8dd19cf1.js",
+    "src": "src/routes/index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      ".solid/index.html",
+      "_Games.49d8852b.js",
+      "_Tab.81eba0f1.js"
+    ],
+    "css": [
+      "index.7172a96a.css"
+    ]
+  },
+  "src/routes/partners.tsx": {
+    "file": "partners.6bfd05ae.js",
+    "src": "src/routes/partners.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      ".solid/index.html",
+      "_Tab.81eba0f1.js",
+      "_Games.49d8852b.js"
+    ]
+  },
+  "src/routes/privacy.tsx": {
+    "file": "privacy.9b977e66.js",
+    "src": "src/routes/privacy.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      ".solid/index.html",
+      "_Tab.81eba0f1.js",
+      "_Games.49d8852b.js"
+    ]
+  },
+  "src/routes/search.tsx": {
+    "file": "search.10f948cf.js",
+    "src": "src/routes/search.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      ".solid/index.html",
+      "_Games.49d8852b.js"
+    ]
+  },
+  "src/routes/services.tsx": {
+    "file": "services.da432004.js",
+    "src": "src/routes/services.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      ".solid/index.html",
+      "_Tab.81eba0f1.js",
+      "_Games.49d8852b.js"
+    ]
+  },
+  "src/routes/supporters.tsx": {
+    "file": "supporters.6de82d06.js",
+    "src": "src/routes/supporters.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      ".solid/index.html",
+      "_Tab.81eba0f1.js",
+      "_Games.49d8852b.js"
+    ]
+  },
+  "src/routes/[...404].tsx": {
+    "file": "_...404_.0cdb4451.js",
+    "src": "src/routes/[...404].tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      ".solid/index.html",
+      "_Tab.81eba0f1.js",
+      "_Games.49d8852b.js"
+    ]
+  },
+  "src/routes/changelog/index.tsx": {
+    "file": "index.b594107b.js",
+    "src": "src/routes/changelog/index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      ".solid/index.html",
+      "_Changes.ab956cb8.js",
+      "_Tab.81eba0f1.js",
+      "_Games.49d8852b.js"
+    ]
+  },
+  "_Changes.ab956cb8.js": {
+    "file": "Changes.ab956cb8.js"
+  },
+  "src/routes/changelog/[any].tsx": {
+    "file": "_any_.0a9a1129.js",
+    "src": "src/routes/changelog/[any].tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      ".solid/index.html",
+      "src/routes/[...404].tsx",
+      "_Changes.ab956cb8.js",
+      "_Tab.81eba0f1.js",
+      "_Games.49d8852b.js"
+    ]
+  },
+  "src/routes/game/[any].tsx": {
+    "file": "_any_.05d63eaf.js",
+    "src": "src/routes/game/[any].tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      ".solid/index.html",
+      "src/routes/[...404].tsx",
+      "_Games.49d8852b.js",
+      "_Tab.81eba0f1.js"
+    ]
+  },
+  ".solid/index.css": {
+    "file": "index.cf2b2e96.css",
+    "src": ".solid/index.css"
+  },
+  "src/routes/index.css": {
+    "file": "index.7172a96a.css",
+    "src": "src/routes/index.css"
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "vite/modulepreload-polyfill": [
+    "/banner.081da34f.svg"
+  ],
+  "node_modules/solid-js/dist/solid.js": [
+    "/banner.081da34f.svg"
+  ],
+  "node_modules/solid-js/web/dist/web.js": [
+    "/banner.081da34f.svg"
+  ],
+  "\u0000vite/preload-helper": [
+    "/banner.081da34f.svg"
+  ],
+  "node_modules/solid-start/entry-client/mount.tsx": [
+    "/banner.081da34f.svg"
+  ],
+  "node_modules/@solidjs/meta/dist/index.jsx": [
+    "/banner.081da34f.svg"
+  ],
+  "node_modules/@solidjs/router/dist/integration.js": [
+    "/banner.081da34f.svg"
+  ],
+  "node_modules/@solidjs/router/dist/utils.js": [
+    "/banner.081da34f.svg"
+  ],
+  "node_modules/@solidjs/router/dist/routing.js": [
+    "/banner.081da34f.svg"
+  ],
+  "node_modules/@solidjs/router/dist/components.jsx": [
+    "/banner.081da34f.svg"
+  ],
+  "node_modules/solid-start/server/ServerContext.tsx": [
+    "/banner.081da34f.svg"
+  ],
+  "node_modules/solid-start/router.tsx": [
+    "/banner.081da34f.svg"
+  ],
+  "node_modules/solid-start/server/types.tsx": [
+    "/banner.081da34f.svg"
+  ],
+  "node_modules/solid-start/error-boundary/ErrorBoundary.tsx": [
+    "/banner.081da34f.svg"
+  ],
+  "node_modules/solid-start/root/FileRoutes.tsx": [
+    "/banner.081da34f.svg"
+  ],
+  "node_modules/solid-start/root/Scripts.tsx": [
+    "/banner.081da34f.svg"
+  ],
+  "node_modules/solid-start/root/Document.tsx": [
+    "/banner.081da34f.svg"
+  ],
+  "src/root.css": [
+    "/banner.081da34f.svg"
+  ],
+  "src/components/Icon.tsx": [
+    "/banner.081da34f.svg"
+  ],
+  "src/components/NavbarButton.tsx": [
+    "/banner.081da34f.svg"
+  ],
+  "src/components/Navbar.tsx": [
+    "/banner.081da34f.svg"
+  ],
+  "src/assets/banner.svg": [
+    "/banner.081da34f.svg"
+  ],
+  "package.json": [
+    "/banner.081da34f.svg"
+  ],
+  "src/components/Footer.tsx": [
+    "/banner.081da34f.svg"
+  ],
+  "src/root.tsx": [
+    "/banner.081da34f.svg"
+  ],
+  "node_modules/solid-start/entry-client/StartClient.tsx": [
+    "/banner.081da34f.svg"
+  ],
+  "src/entry-client.tsx": [
+    "/banner.081da34f.svg"
+  ],
+  ".solid/index.html": [
+    "/banner.081da34f.svg"
+  ],
+  "src/routes/apps.tsx": [
+    "/apps.ea66ae2c.js"
+  ],
+  "src/routes/settings.tsx": [
+    "/Tab.81eba0f1.js"
+  ],
+  "src/Tab.ts": [
+    "/Tab.81eba0f1.js"
+  ],
+  "games.json": [
+    "/Games.49d8852b.js"
+  ],
+  "Games.ts": [
+    "/Games.49d8852b.js"
+  ],
+  "src/routes/games.tsx": [
+    "/games.d02f294c.js"
+  ],
+  "node_modules/keen-slider/keen-slider.es.js": [
+    "/index.8dd19cf1.js",
+    "/index.7172a96a.css"
+  ],
+  "node_modules/solid-slider/dist/index/primitive.js": [
+    "/index.8dd19cf1.js",
+    "/index.7172a96a.css"
+  ],
+  "node_modules/solid-slider/dist/slider.css": [
+    "/index.8dd19cf1.js",
+    "/index.7172a96a.css"
+  ],
+  "src/components/Slider.tsx": [
+    "/index.8dd19cf1.js",
+    "/index.7172a96a.css"
+  ],
+  "src/routes/index.tsx": [
+    "/index.8dd19cf1.js",
+    "/index.7172a96a.css"
+  ],
+  "src/assets/tn.webp": [
+    "/partners.6bfd05ae.js"
+  ],
+  "src/assets/nebula.png": [
+    "/partners.6bfd05ae.js"
+  ],
+  "src/assets/ubg100.png": [
+    "/partners.6bfd05ae.js"
+  ],
+  "src/assets/gamehub.png": [
+    "/partners.6bfd05ae.js"
+  ],
+  "src/assets/astral.png": [
+    "/partners.6bfd05ae.js"
+  ],
+  "src/routes/partners.tsx": [
+    "/partners.6bfd05ae.js"
+  ],
+  "src/routes/privacy.tsx": [
+    "/privacy.9b977e66.js"
+  ],
+  "\u0000commonjsHelpers.js": [
+    "/search.10f948cf.js"
+  ],
+  "\u0000C:/Users/Pangea/Downloads/Radon-Games-main/node_modules/fuzzysort/fuzzysort.js?commonjs-module": [
+    "/search.10f948cf.js"
+  ],
+  "node_modules/fuzzysort/fuzzysort.js": [
+    "/search.10f948cf.js"
+  ],
+  "src/routes/search.tsx": [
+    "/search.10f948cf.js"
+  ],
+  "src/routes/services.tsx": [
+    "/services.da432004.js"
+  ],
+  "src/routes/supporters.tsx": [
+    "/supporters.6de82d06.js"
+  ],
+  "src/routes/[...404].tsx": [
+    "/_...404_.0cdb4451.js"
+  ],
+  "src/routes/changelog/index.tsx": [
+    "/index.b594107b.js"
+  ],
+  "changes.json": [
+    "/Changes.ab956cb8.js"
+  ],
+  "Changes.ts": [
+    "/Changes.ab956cb8.js"
+  ],
+  "src/routes/changelog/[any].tsx": [
+    "/_any_.0a9a1129.js"
+  ],
+  "src/routes/game/[any].tsx": [
+    "/_any_.05d63eaf.js"
+  ]
+}
